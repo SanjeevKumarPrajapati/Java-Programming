@@ -1,0 +1,76 @@
+<-------------------------------- Introduction of java -------------------------->
+
+1.) Java was developed by James Gosling at Sun_Micro_systems_Inc in the year 1991.
+2.) It is simple programming language.
+3.) Java makes writing , compliling and dubugging programming easy.
+4.) It helps to create reuseable code and modular program.
+5.) Java is a class-based , object-oriented programming language and is designed to have as few implementation dependencies are possible.
+
+
+<----------------------------------- History of Java--------------------------------->
+
+1.) java is a programming language created in 1991.
+2.) James Gosling , Mike Sheriaan and Patrick Naughton , a team of sun Engineers known as the green team initiated the java language in1991.
+3.) Sun Microsystems released it's first public implementation in 1996 as java 1.0.
+4.) In 1997 , Sun Microsystems approached the ISO standard body and later formalized withdrew from the process.
+5.) On November 13,2006 Sun released much of its virtual machine as free (JVM) , open source software.
+6.) On may 8 2007 , sun finished the process making all of its JVM's core code available under open-source distribution terms.
+7.) The principles for creating java were simple, robust,high performance,portable,Multi-Threading,complier and interpreted based language,
+dynamic.. etc.
+8.) James Gosling iin 1995 developed java who is known as the Father of java.
+9.) Currently java is used in Mobile devices,internet,programming, games, etc.
+
+<---------------------------------------- Java Features ------------------------------------->
+
+1.) Complier and interpreted based language
+2.) Plateform Independent
+3.) Portable
+4.) Object-oriented
+5.) Robust
+6.) Secure
+
+
+
+<------------------------------ Java Program Explanation ---------------------------------->
+
+
+Class :- The class contain the data and methods to be used in the program.Motheds define the behavior of the class. Class "a" has only one method
+	main in java;
+
+static:- static keyword tell us that this method is accessible without instantiating the class;
+
+void() :- keyword tell that this method will not return anything.
+main() :- The main method is the entry point of our application.
+
+System.in():- This is the standard input stream that is used to read char.. form the keyboard or key any other input device.
+
+System.out():- This is the standard output stream that is used to produce the result of a program on an output clear like the computer screen.
+
+println() :- This method in java is also used to display text on the console and the curcor moves to the start of the next line at the console.
+	The next Printing takes from the next line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
