@@ -1,0 +1,52 @@
+<------------------------- Variables and data types ------------------------------->
+A variable is a container which hold the value while the java program is executed. Available is assigned with a data type.
+
+Type :-
+	1.)  Local Variable :- A variable decleared inside the body of the method is called local variable;
+	2.) Instance Variable :- A variable decleared inside the class but outside the main body of the method is called an instance variable;
+	3.) Static variable :- A variable that is decleared as static is called a static variable."It cannot be local".
+
+<----------------------------- Data type ------------------------------------>
+
+Data type specify the diffrent sizes and values that can be stored in the variable.There are two typs of data types in java.
+
+1.) Primitive Data type :- The primitive data type includes boolean ,char ,byte ,short ,int,long,float and double.
+2.) Non-Primitive Data type :- The non-primitive data type is includes classes , interface and array.
+
+	Data type 				Default size
+	boolean 				1 bit
+	char 				2 byte
+	byte 				1 byte
+	Short 				2 byte
+	int 				4 byte
+	long 				8byte
+	float 				4 byte
+	double 				8 byte
+
+<--------------------------------------------- Taking input from the user --------------------------------->
+	
+	import java.util.Scanner;
+	Scanner obj=new Scanner(System.in);
+	int a=obj.nextInt()//nextBoolean,nextByte,nextLine(),nextLong(),nextShort(),nextFloat(),nextDouble()
+
+<----------------------------------- Operators -------------------------------------->
+
+	Operators are used to perform operation on variables and values.
+
+1.) Arithmetic Operators (+,-,*,/,%,++,--)
+2.) Assignment Operators(=,+=,-=,/=,%=,^=,>>=,<<=)
+3.) Comparison Operators(==,!=,>,>,<=,>=)
+4.) Logical Operator(&&(and),||(or),!(not))
+
+ 
+
+
+
+
+
+
+
+
+
+
+
