@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
-
-*******************************************************************************/
 class A{
     public void meth1(int a){
         System.out.println("My first method :"+a);
